@@ -1,74 +1,27 @@
 # 👋 Hi, I'm Arjun Maru
 
-🚀 I'm a passionate **Software Developer** and **Engineering Student** at D.J. Sanghvi College of Engineering (IT, 2026), focused on building responsive, performant web applications and solving real-world problems through code.
+I'm a Software Developer and Engineering Student (IT, D.J. Sanghvi College of Engineering – Class of 2026) with a passion for building full-stack web apps, solving real-world problems through code, and constantly learning new technologies.
 
 ---
 
-## 🔧 Tech Stack
+## 🛠 Tech Stack
 
-**Languages:**  
-C, C++, Java, JavaScript, Python, SQL
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-**Frameworks & Libraries:**  
-React.js, Next.js, Node.js, Express.js, Tailwind CSS
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-**Databases & Tools:**  
-MongoDB, MySQL, Git, GitHub, Postman
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 
----
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
-## 🛠️ Projects
-
-### 🔹 [TrackWise](https://github.com/Arjun1807)  
-A full-stack personal finance tracker built using **Next.js**, **Node.js**, and **MongoDB**.  
-- Budget management, expense/income logging  
-- Custom charts for financial visualization  
-- JWT-based authentication, ShadCN UI & lucide-react integration
-
-### 🔹 Rubric Manager  
-A secure rubric management system for educators built with **Next.js 14**, **TypeScript**, **Radix UI**, and **MongoDB**.  
-- User auth with JWT & bcrypt  
-- CSV upload + PDF export (React-PDF)  
-- Role-based routing for teachers/students
-
----
-
-## 💼 Experience
-
-**Software Developer Intern** @ Webxela (Remote)  
-*June 2024 – Sept 2024*  
-- Developed responsive frontend and backend components for client-facing web applications  
-- Collaborated cross-functionally with design and marketing teams to deliver scalable UI/UX
-
----
-
-## 📜 Achievements & Certifications
-
-- 🏆 Finalist – IIT Madras Shastra Programming Contest  
-- 🥈 Top 10 – SPIT CodeHunt 2024 & KJSCE Crackathon 2024  
-- ⭐ 3-Star Coder – CodeChef (Top 8% globally)  
-- 🧠 200+ LeetCode problems solved
-
-**Certifications:**  
-- Stanford – Supervised Machine Learning  
-- Colt Steele – The Web Developer Bootcamp  
-- Physics Wallah – Decode DSA with C++
-
----
-
-## 🎨 Extracurricular
-
-**DjsNova** – Member, Creatives Co-committee  
-- Created promotional digital content for social events and campaigns
-
----
-
-## 📫 Connect with Me
-
-- 📧 Email: [maruarjun6@gmail.com](mailto:maruarjun6@gmail.com)  
-- 💼 [LinkedIn](https://www.linkedin.com/in/arjunmaru18/)  
-- 💻 [GitHub](https://github.com/Arjun1807)  
-- 🧠 [LeetCode](https://leetcode.com/u/ArjunMaru/)  
-- 🔗 [CodeChef](https://www.codechef.com/users/arjunmaru)
-
----
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
